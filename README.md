@@ -1,0 +1,2 @@
+# Attendance-Management-System-Using-Face-regonition-and-QR-Code
+The Attendance Management System Using Face–Recognition and QR Code is a replacement method for the traditional way of marking attendance. The purpose of the attendance Management system using face recognition QR Code is to ease the attendance process which consumes lot of time and efforts, it is a convenient and easy way for students and teachers.
